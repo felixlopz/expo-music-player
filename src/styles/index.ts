@@ -1,4 +1,4 @@
-import { colors, fonSize } from '#/contants/tokens'
+import { colors, fonSize } from '#/constants/tokens'
 import { StyleSheet } from 'react-native'
 
 export const defaultStyles = StyleSheet.create({
